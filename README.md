@@ -40,6 +40,8 @@ Employee Usage
 3. Submit Leave Requests: Employees submit leave requests through the system if necessary.
 4. Submit holiday Requests: Employees submit holiday requests through the system if necessary.
 5. View Attendance History: Employees can review their attendance history and monitor their attendance performance.
+
+
 Admin Usage
 
 1. Login: Administrators log in to the admin dashboard using their credentials.
